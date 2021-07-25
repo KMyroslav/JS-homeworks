@@ -1,0 +1,23 @@
+{
+  "name": "JS-homeworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KMyroslav/JS-homeworks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KMyroslav/JS-homeworks/issues"
+  },
+  "homepage": "https://github.com/KMyroslav/JS-homeworks#readme",
+  "dependencies": {
+    "throttle": "^1.0.3"
+  }
+}
